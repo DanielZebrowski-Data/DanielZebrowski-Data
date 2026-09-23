@@ -23,7 +23,7 @@ For over a year, I've been honing my technical skills to build end-to-end data p
 - **Tech Stack:** PostgreSQL | Power BI
 - **Description:** End-to-end analysis exploring sleep patterns, occupation impacts, and BMI risks. Features custom SQL views, data transformation, and an executive 100% stacked column dashboard in Power BI.
 
-#### 2. 🛒 E-Commerce Sales & Customer Behavior Analytics
+#### 2. 🛒 [E-Commerce Sales & Customer Behavior Analytics](https://github.com/DanielZebrowski-Data/E-Commerce-Sales-Customer-Behavior-Analytics.git)
 - **Project Overview:**
   This project features an end-to-end relational data pipeline and analytical model for an E-commerce platform.
   It demonstrates data warehouse structuring, cleaning, transformation, and analytical modeling using PostgreSQL.

@@ -27,6 +27,10 @@ For over a year, I've been honing my technical skills to build end-to-end data p
 - **Tech Stack:** PostgreSQL | Power BI | Power Query
 - **Description:** End-to-end e-commerce BI solution featuring a Star Schema model, advanced SQL semantic views (window functions for market penetration), and an executive C-level dashboard covering sales performance, fulfillment risks, and regional payment gateway adoption.
 
+#### 3. 3. 🏫 School Kids Organizer (In Progress) [School Kids Organizer](school_kids_organizer)
+- **Tech Stack:** Python (OOP, CLI) | PostgreSQL | psycopg2
+- **Description:** A Python-based automation engine designed to streamline and automate preschool group allocations. Implements Object-Oriented Programming (Child, Group, Kindergarten classes) powered by a PostgreSQL Single Source of Truth to dynamically balance group capacities based on age, gender distribution, and current group occupancy.
+
 ---
 
 ### 💼 Technical Background & Transferable Skills
